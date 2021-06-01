@@ -1,0 +1,11 @@
+.questions {
+    display: flex;
+    flex-direction: column;
+    border: 1px red dotted;
+    padding: 10px;
+}
+
+button {
+    margin: 30px;
+    height: 50px;
+}
